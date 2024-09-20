@@ -9,4 +9,4 @@ Este é um aplicativo simples de consulta de CEP utilizando React Native. Ele pe
 - Tratamento de erros caso o CEP não seja encontrado.
 
 ## 🚀 Rodando o projeto
-![Screenshot do App em Funcionamento](./assets/screenshot.png)
+![Screenshot do App em Funcionamento](./assets/screenshot.png.jpg)
